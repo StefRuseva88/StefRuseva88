@@ -1,7 +1,7 @@
 Hi, I am Stefaniya and I have huge passion for software testing!
 
 
-Tools and languages that I use:
+Here is the Tools and languages that I use:
 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,postman,docker,dotnet,visualstudio,vscode,nodejs,github,selenium,grafana,prometheus,jenkins,mongodb,mysql,windows,wordpress)](https://skillicons.dev)
