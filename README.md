@@ -8,7 +8,7 @@ Tools and languages that I use:
 
 
 
-[![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
