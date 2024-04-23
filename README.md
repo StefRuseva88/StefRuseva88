@@ -6,7 +6,7 @@ Here is the tools and languages that I use:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,html,css,postman,docker,dotnet,visualstudio,vscode,nodejs,github,githubactions,selenium,azure,grafana,prometheus,jenkins,mongodb,mysql,windows,powershell,wordpress,flutter&perline=3" />
+    <img src="https://skillicons.dev/icons?i=cs,js,html,css,postman,docker,dotnet,visualstudio,vscode,nodejs,github,githubactions,selenium,azure,grafana,prometheus,jenkins,mongodb,mysql,windows,powershell,wordpress,flutter&perline=6" />
   </a>
 </p>
 
