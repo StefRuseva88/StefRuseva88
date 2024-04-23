@@ -1,6 +1,5 @@
 
-  <center>
-  <p style="font-family: Arial, sans-serif; font-size: 1000px;">Hi, I am Stefaniya and I have a huge passion for software testing!
+  Hi, I am Stefaniya and I have a huge passion for software testing!
 
   
 </center>
