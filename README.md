@@ -1,8 +1,6 @@
-Hi, I am Stefaniya and I have huge passion for software testing!
-
-
-
-Here is the tools and languages that I use:
+<center>
+  Hi, I am Stefaniya and I have a huge passion for software testing!
+</center>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,9 +8,12 @@ Here is the tools and languages that I use:
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=synthwave" />
+</p>
 
-
-[![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+<p align="center">
+  <a href="https://GitHub.com/Naereen/">
+    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
+  </a>
+</p>
