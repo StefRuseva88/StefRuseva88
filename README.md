@@ -1,9 +1,4 @@
-</center>
-
-  Hi, I am Stefaniya and I have a huge passion for software testing!
-
-  
-</center>
+Code-Analysis-ESLint Hi, I am Stefaniya and I have a huge passion for software testing!
 
 Here is the tools and languages that I use:
 
