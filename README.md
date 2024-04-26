@@ -11,7 +11,7 @@ Here is the tools and languages that I use:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=synthwave" />
 </p>
 
 <p align="center">
