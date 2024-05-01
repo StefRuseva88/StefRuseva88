@@ -2,7 +2,7 @@
 
 Hi, I am Stefaniya and I have a huge passion for software testing!
 
-Here is the tools and languages that I use:
+Here is the tools and languages that I mostly use:
 
 <p align="center">
   <a href="https://skillicons.dev">
