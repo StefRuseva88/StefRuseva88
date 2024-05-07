@@ -1,5 +1,5 @@
 
-# Hi, I am Stefaniya and I am a software tester!
+# Hi, I am Stefaniya and I am an enthusiastic software tester!
 
 Here is the tools and languages that I mostly use:
 
