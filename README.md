@@ -1,5 +1,5 @@
 
-# Hi, I am Stefaniya and I am an enthusiastic software tester!
+# Hi, I am Stefaniya and I'm writing automation tests with huge enthusiasm!
 
 Here is the tools and languages that I mostly use:
 
