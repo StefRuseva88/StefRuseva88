@@ -3,7 +3,7 @@
 Here are the tools and languages that I mostly use:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css,postman,docker,dotnet,visualstudio,vscode,nodejs,github,selenium,grafana,prometheus,mongodb,mysql,windows,wordpress&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css,postman,docker,dotnet,visualstudio,vscode,nodejs,github,selenium,grafana,prometheus,mongodb,mysql,windows,wordpress&perline=9" />
 </a>
 <p></p>
 <p>
