@@ -5,7 +5,7 @@ Here are the tools and languages that I mostly use:
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cs,js,html,css,postman,docker,dotnet,visualstudio,vscode,nodejs,github,selenium,grafana,prometheus,mongodb,mysql,windows,wordpress&perline=6" />
 </a>
-
+<p></p>
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=blue-green" alt="Stefaniya's GitHub Streak Stats">
