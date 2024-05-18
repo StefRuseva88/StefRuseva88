@@ -1,9 +1,7 @@
 # Hi, I am Stefaniya and I'm writing automation tests with huge enthusiasm!
 
 ## About Me
-I am a passionate and detail-oriented automation test engineer with a strong background in software development and quality assurance. I specialize in writing robust and efficient automation scripts to ensure the highest standards of software quality. With a deep understanding of various testing frameworks and tools, I strive to enhance the development process by identifying and addressing issues early.
-
-I have a keen interest in continuous learning and staying updated with the latest industry trends and technologies. My goal is to contribute to the success of development teams by delivering reliable and maintainable automation solutions.
+Hello! I'm Stefaniya, a passionate and detail-oriented automation test engineer with over [X] years of experience in software development and quality assurance. My journey in the tech industry began with a fascination for how things work and a desire to make them work even better.
 
 ## Tools and Technologies
 Here are the tools and languages that I mostly use:
