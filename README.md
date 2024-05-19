@@ -32,12 +32,6 @@ Here are the tools and languages that I mostly use:
 </p>
 <p></p>
 <p>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=blue-green" alt="Stefaniya's GitHub Streak Stats">
-  </a>
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=blue-green" />
 </p>
 
