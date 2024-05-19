@@ -27,6 +27,7 @@ Here are the tools and languages that I mostly use:
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" /></a>
   <a href="https://wordpress.com/"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 </p>
 <p></p>
 <p>
