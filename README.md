@@ -32,7 +32,7 @@ Here are the tools and languages that I mostly use:
 </p>
 <p></p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=blue-green" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=syntwave" />
 </p>
 
 <p>
