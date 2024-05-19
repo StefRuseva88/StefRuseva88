@@ -38,7 +38,7 @@ Here are the tools and languages that I mostly use:
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=blue-green" />
 </p>
 
 <p>
