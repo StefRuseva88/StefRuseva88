@@ -16,6 +16,7 @@ Here are the tools and languages that I mostly use:
   <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://openai.com/"><img src="https://skillicons.dev/icons?i=ai" /></a>
 </p>
 <p>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
