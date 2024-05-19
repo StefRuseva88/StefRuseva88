@@ -30,7 +30,7 @@ Here are the tools and languages that I mostly use:
   <a href="https://wordpress.com/"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 </p>
-https://github.com/ryo-ma/github-profile-trophy
+
 <p></p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=synthwave" />
