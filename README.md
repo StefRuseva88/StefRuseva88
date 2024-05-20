@@ -32,10 +32,14 @@ Here are the tools and languages that I mostly use:
 </p>
 
 <p></p>
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&theme=synthwave" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&show_icons=true&theme=synthwave" alt="Stefaniya's GitHub Stats">
+  </a>
 </p>
 
+<p> https://github-readme-stats.vercel.app/api?username=StefRuseva88&show_icons=true&theme=synthwave</p>
 <p>
   <a href="https://GitHub.com/Naereen/">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
