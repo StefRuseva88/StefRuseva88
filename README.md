@@ -31,6 +31,11 @@ Here are the tools and languages that I mostly use:
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 </p>
 <p>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
+  </a>
+</p>
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&layout=compact&theme=synthwave" alt="Stefaniya's Top Languages">
   </a>
