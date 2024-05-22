@@ -19,8 +19,8 @@ Here are the tools and languages that I mostly use:
   <a href="https://openai.com/"><img src="https://skillicons.dev/icons?i=ai" /></a>
 </p>
 <p>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" /></a>
   <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
   <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
