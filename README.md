@@ -1,4 +1,4 @@
-# Hi, I am Stefaniya 👋
+![Header](./github-header-image.png)
 
 ## About Me:
 Hello! I'm Stefaniya, a passionate and detail-oriented automation test engineer with 2 years experience in software quality assurance. My journey in the tech industry began with a fascination for how things work and a desire to make them work even better. 🚀
