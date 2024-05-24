@@ -30,6 +30,7 @@ Here are the tools and languages that I mostly use:
   <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=bash" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p>
 <p>
