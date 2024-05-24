@@ -24,7 +24,7 @@ Here are the tools and languages that I mostly use:
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
   <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
-  <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=sqlserver" /></a>
+  <a href="https://github.com/features/actions/"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" /></a>
