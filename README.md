@@ -26,8 +26,8 @@ Here are the tools and languages that I mostly use:
   <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
   <a href="https://openai.com/"><img src="https://skillicons.dev/icons?i=ai" /></a>
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=bash" /></a>
