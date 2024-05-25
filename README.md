@@ -28,7 +28,7 @@ Here are the tools and languages that I mostly use:
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=bash" /></a>
+  <a href="https://www.geeksforgeeks.org/working-on-git-bash"><img src="https://skillicons.dev/icons?i=bash" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p>
 <p>
