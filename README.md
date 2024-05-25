@@ -1,7 +1,7 @@
 ![Header](./github-header-cosmocat.png)
 
 ## About Me:
-Hello! I'm Stefaniya, a passionate and detail-oriented automation test engineer with 2 years experience in software quality assurance. My journey in the tech industry began with a fascination for how things work and a desire to make them work even better. 🚀
+📌 Hello! I'm Stefaniya, a passionate and detail-oriented automation test engineer with 2 years experience in software quality assurance. My journey in the tech industry began with a fascination for how things work and a desire to make them work even better. 🚀
 
 ## Tools and Technologies:
 Here are the tools and languages that I mostly use:
