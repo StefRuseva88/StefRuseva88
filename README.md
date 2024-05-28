@@ -2,7 +2,8 @@
 
 ## About Me:
 Hello! I'm Stefaniya Ruseva, a passionate and detail-oriented automation test engineer with 3 years experience in software quality assurance. My journey in the tech industry began with a fascination for how things work and a desire to make them work even better. 🚀
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+<p>[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)</p>
 
 ## Tools and Technologies:
 Here are some of the tools and languages that I mostly use:
