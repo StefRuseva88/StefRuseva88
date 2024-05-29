@@ -5,8 +5,6 @@ Hello! I'm Stefaniya Ruseva, a passionate and detail-oriented automation test en
 
 <p>In my free time, I enjoy gaming, both mobile and PC 🎮 </p>
 
-Thank you for visiting my profile! 😊
-
 ## Tools and Technologies:
 Here are some of the tools and languages that I mostly use:
 
