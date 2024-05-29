@@ -50,3 +50,4 @@ Here are some of the tools and languages that I mostly use:
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
   </a>
 </p>
+<p>Thank you for visiting my profile! 😊</p>
