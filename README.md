@@ -5,9 +5,9 @@
 <p>Hello! I'm Stefaniya Ruseva, a passionate and detail-oriented test automation engineer with 3 years experience in software quality assurance.
 My journey in the tech industry began with a fascination for how things work and a desire to make them work even better.</p> 
 
-🔍 Experience:  My expertise spans across various testing methodologies, tools, and frameworks
+<li>🔍 Experience:  My expertise spans across various testing methodologies, tools, and frameworks
 🖥 Specialization: Manual Testing, Automation Testing, API Testing, Performance Testing
-🚀 Interests: Test Automation, Artificial Intelligence in Testing
+🚀 Interests: Test Automation, Artificial Intelligence in Testing </li>
 
 
 ## Tools and Technologies:
