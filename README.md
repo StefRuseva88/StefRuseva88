@@ -7,10 +7,11 @@ My journey in the tech industry began with a fascination for how things work and
 
 <p></p>
 
-1. 🔍 Experience:  My expertise spans across various testing methodologies, tools, and frameworks
-2. 🖥 Specialization: Manual Testing, Automation Testing, API Testing, Performance Testing
-3. 🚀 Interests: Test Automation, Artificial Intelligence in Testing
-
+<ul> 
+ <li>🔍 Experience:  My expertise spans across various testing methodologies, tools, and frameworks</li>
+ <li>🖥 Specialization: Manual Testing, Automation Testing, API Testing, Performance Testing</li>
+ <li>🚀 Interests: Test Automation, Artificial Intelligence in Testing</li>
+</ul>
 
 ## Tools and Technologies:
 Here are the tools and languages that I mostly use:
