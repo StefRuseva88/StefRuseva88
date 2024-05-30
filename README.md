@@ -13,7 +13,7 @@ My journey in the tech industry began with a fascination for how things work and
  <li>🚀 Interests: Test Automation, Artificial Intelligence in Testing</li>
 </ul>
 
-## Tools and Technologies:
+### Tools and Technologies:
 Here are the tools and languages that I mostly use:
 
 <p>
