@@ -1,9 +1,11 @@
 ![Header](./github-header-cosmocat.png)
 
 ## About Me:
-<p>Hello! I'm Stefaniya Ruseva, a passionate and detail-oriented automation test engineer with 3 years experience in software quality assurance.
+Test automation engineer 🚀 |  Continuous learner 📖 | Curious mind 🧩| Innovation seeker 🔍 | Software quality enthusiast 🛠
+
+<p>Hello! I'm Stefaniya Ruseva, a passionate and detail-oriented test automation engineer with 3 years experience in software quality assurance.
 My journey in the tech industry began with a fascination for how things work and a desire to make them work even better.</p> 
-<p>I have a deep interest in test automation. I strongly believe in continuous learning, always staying up-to-date with the latest industry trends and technologies. My curiosity extends to the fields of artificial intelligence, where I explore new ways to integrate AI into testing processes. 🚀</p>
+
 
 ## Tools and Technologies:
 Here are the tools and languages that I mostly use:
