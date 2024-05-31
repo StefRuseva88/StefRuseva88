@@ -33,11 +33,11 @@ Here are the tools and languages that I mostly use:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
-  <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
   <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.geeksforgeeks.org/working-on-git-bash"><img src="https://skillicons.dev/icons?i=bash" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
