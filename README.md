@@ -22,9 +22,9 @@ Here are the tools and languages that I mostly use:
   <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://wordpress.com/"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" /></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
