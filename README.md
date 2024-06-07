@@ -44,8 +44,7 @@ Here are the tools and languages that I mostly use:
 </p>
 </p>
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=StefRuseva88&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <p><p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
