@@ -42,13 +42,11 @@ Here are the tools and languages that I mostly use:
   <a href="https://www.geeksforgeeks.org/working-on-git-bash"><img src="https://skillicons.dev/icons?i=bash" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p>
-</p>
-
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<p><p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
   </a>
+  <p>
+   [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
