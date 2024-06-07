@@ -46,8 +46,10 @@ Here are the tools and languages that I mostly use:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
   </a>
   <p>
-   [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
+  </a>
+  </p>
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&layout=compact&theme=synthwave" alt="Stefaniya's Top Languages">
