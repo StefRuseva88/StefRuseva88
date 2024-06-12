@@ -12,9 +12,14 @@ My journey in the tech industry began with a fascination for how things work and
  <li>🖥 Specialization: Manual Testing, Automation Testing, API Testing, Performance Testing, Mobile Testing</li>
  <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
 </ul>
- <!--
-https://github-profile-trophy.vercel.app/StefRuseva88=ryo-ma&theme=onedark
--->
+
+ 
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark" alt="GitHub Trophies">
+  </a>
+</p>
+
 
 ### Tools and Technologies:
 Here are the tools and languages that I mostly use:
