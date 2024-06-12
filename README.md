@@ -13,11 +13,9 @@ My journey in the tech industry began with a fascination for how things work and
  <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
 </ul>
 
- 
-  <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark" alt="GitHub Trophies">
+  <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1">
+    <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1" alt="GitHub Trophies">
   </a>
-
 
 ### Tools and Technologies:
 Here are the tools and languages that I mostly use:
