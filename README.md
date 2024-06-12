@@ -12,11 +12,6 @@ My journey in the tech industry began with a fascination for how things work and
  <li>🖥 Specialization: Manual Testing, Automation Testing, API Testing, Performance Testing, Mobile Testing</li>
  <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
 </ul>
-
-### 🏆 GitHub Trophies
-<a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
-  </a>
   
 ### 🛠️ Tools and Technologies
 <p>
@@ -45,6 +40,12 @@ My journey in the tech industry began with a fascination for how things work and
   <a href="https://www.geeksforgeeks.org/working-on-git-bash"><img src="https://skillicons.dev/icons?i=bash" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p>
+
+### 🏆 GitHub Trophies
+<a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
+  </a>
+
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
   </a>
