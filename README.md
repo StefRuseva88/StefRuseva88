@@ -13,9 +13,12 @@ My journey in the tech industry began with a fascination for how things work and
  <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
 </ul>
 
-### Tools and Technologies:
+### 🏆 GitHub Trophies:
+<a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
+  </a>
+### 🛠️ Tools and Technologies:
 Here are the tools and languages that I mostly use:
-
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
   <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
@@ -62,7 +65,4 @@ Here are the tools and languages that I mostly use:
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
   </a>
 </p>
- <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
-  </a>
 <p>Thank you for visiting! 🤗</p>
