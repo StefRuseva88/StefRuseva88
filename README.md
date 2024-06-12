@@ -13,6 +13,8 @@ My journey in the tech industry began with a fascination for how things work and
  <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
 </ul>
 
+[![trophy](https://github-profile-trophy.vercel.app/?StefRuseva88=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Tools and Technologies:
 Here are the tools and languages that I mostly use:
 
