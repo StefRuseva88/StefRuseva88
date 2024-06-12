@@ -15,6 +15,7 @@ My journey in the tech industry began with a fascination for how things work and
  <!--
 https://github-profile-trophy.vercel.app/StefRuseva88=ryo-ma&theme=onedark
 -->
+
 ### Tools and Technologies:
 Here are the tools and languages that I mostly use:
 
