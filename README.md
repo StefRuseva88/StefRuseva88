@@ -17,6 +17,7 @@ My journey in the tech industry began with a fascination for how things work and
 <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
     <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
   </a>
+  
 ### 🛠️ Tools and Technologies:
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
