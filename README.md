@@ -69,7 +69,9 @@ My journey in the tech industry began with a fascination for how things work and
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
   </a>
 </p>
+
 ### Thank you for visiting! Let's connect! 🤗
+
 <p>  
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
