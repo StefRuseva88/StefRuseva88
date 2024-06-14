@@ -1,4 +1,4 @@
-hu![Header](./github-header-cosmocat.png)
+![Header](./github-header-cosmocat.png)
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
