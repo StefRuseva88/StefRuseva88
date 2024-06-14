@@ -70,3 +70,12 @@ My journey in the tech industry began with a fascination for how things work and
   </a>
 </p>
 <p>Thank you for visiting! 🤗</p>
+
+### Let's connect:
+<p>  
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=linkedin " /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+
+</p>
