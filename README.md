@@ -69,13 +69,10 @@ My journey in the tech industry began with a fascination for how things work and
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
   </a>
 </p>
-<p>Thank you for visiting! 🤗</p>
-
-### Let's connect:
+### Thank you for visiting! Let's connect! 🤗
 <p>  
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=linkedin " /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
