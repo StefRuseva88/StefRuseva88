@@ -79,4 +79,3 @@ My journey in the tech industry began with a fascination for how things work and
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 </p>
-Thank you for visiting! 
