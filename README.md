@@ -75,6 +75,6 @@ My journey in the tech industry began with a fascination for how things work and
 <p>  
   <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="stefruseva88@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.instagram.com/stefanie_grimaldy""><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
