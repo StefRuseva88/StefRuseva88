@@ -1,4 +1,4 @@
-![Header](./github-header-cosmocat.png)
+hu![Header](./github-header-cosmocat.png)
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
@@ -70,7 +70,7 @@ My journey in the tech industry began with a fascination for how things work and
   </a>
 </p>
 
-### Thank you for visiting! Let's connect! 🤗
+### Thank you for visiting! Let's connect!
 
 <p>  
   <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
