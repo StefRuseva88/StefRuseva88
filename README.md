@@ -14,6 +14,7 @@ My journey in the tech industry began with a fascination for how things work and
 </ul>
   
 ### 🛠️ Tools and Technologies
+<p></p>
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
   <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
