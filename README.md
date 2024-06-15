@@ -53,12 +53,11 @@ My journey in the tech industry began with a fascination for how things work and
   </a>
   <p>
   <p></p>
-  <!--
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
   </p>
-  -->
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&layout=compact&theme=synthwave" alt="Stefaniya's Top Languages">
@@ -69,7 +68,7 @@ My journey in the tech industry began with a fascination for how things work and
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
   </a>
 </p>
-
+ <!--
 ### Let's connect:
 <p>  
   <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -79,3 +78,4 @@ My journey in the tech industry began with a fascination for how things work and
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 </p>
+-->
