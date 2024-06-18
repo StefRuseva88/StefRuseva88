@@ -80,3 +80,4 @@ My journey in the tech world began with a fascination for how things work and a 
 </a>
 </p>
 -->
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
