@@ -70,7 +70,7 @@ My journey in the tech world began with a fascination for how things work and a 
   </a>
 </p>
 
-### Let's connect:
+### 📩 Let's connect:
 <p>  
   <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
