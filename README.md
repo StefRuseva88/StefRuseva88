@@ -56,12 +56,12 @@ My journey in the tech world began with a fascination for how things work and a 
   <p>
   <p></p>
 
-  
+  <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
   </p>
- 
+ -->
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
