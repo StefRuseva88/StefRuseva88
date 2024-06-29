@@ -62,6 +62,10 @@ My journey in the tech world began with a fascination for how things work and a 
   </a>
 </p>
 
+<a href="https://GitHub.com/Naereen/">
+    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
+ </a>
+ 
  ### 🏆 GitHub Trophies
 <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
     <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
@@ -76,6 +80,3 @@ My journey in the tech world began with a fascination for how things work and a 
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 </p>
- <a href="https://GitHub.com/Naereen/">
-    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
- </a>
