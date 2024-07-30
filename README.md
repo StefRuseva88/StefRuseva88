@@ -28,7 +28,7 @@ My journey into the tech world began with a fascination for how things work and 
   <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" /></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
  
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright,appium,androidstudio&titles=true)
  
   </p>
   <p>
