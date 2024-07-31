@@ -15,6 +15,7 @@ My journey into the tech world began with a fascination for how things work and 
   
 ### 🛠️ Tools and Technologies
 <p></p>
+   <!--
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
   <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
@@ -28,9 +29,11 @@ My journey into the tech world began with a fascination for how things work and 
   <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" /></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   </p>
-   <!--
+    -->
+
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,visualstudio,vscode,windows,css,wordpress,docker,nodejs,selenium,mongodb,js,firebase,grafana,postman,prometheus,html,git,jenkins,github,bash,githubactions,playwright,androidstudio,jira,microsoftcopilot,chatgpt,githubpages,mocha,sqlserver,mysql&titles=true)
- -->
+  
+   <!--
   <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
@@ -44,6 +47,7 @@ My journey into the tech world began with a fascination for how things work and 
   <a href="https://www.geeksforgeeks.org/working-on-git-bash"><img src="https://skillicons.dev/icons?i=bash" /></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p> 
+ -->
 
  ### 🏆 GitHub Trophies
  
