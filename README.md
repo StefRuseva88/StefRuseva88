@@ -31,7 +31,7 @@ My journey into the tech world began with a fascination for how things work and 
   </p>
     -->
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,visualstudio,vscode,windows,css,wordpress,docker,nodejs,selenium,mongodb,js,firebase,grafana,postman,prometheus,html,git,jenkins,github,bash,githubactions,playwright,androidstudio,jira,microsoftcopilot,chatgpt,githubpages,mocha,sqlserver,mysql&titles=true)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,visualstudio,vscode,windows,css,wordpress,docker,nodejs,selenium,mongodb,js,firebase,grafana,postman,prometheus,html,git,jenkins,github,bash,githubactions,playwright,androidstudio,jira,microsoftcopilot,chatgpt,mocha,sqlserver,mysql&titles=true)
   
    <!--
   <p>
