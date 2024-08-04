@@ -30,16 +30,9 @@ My journey into the tech world began with a fascination for how things work and 
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   </p>
     -->
-<!--
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,visualstudio,vscode,windows,css,wordpress,docker,jira,githubactions,androidstudio,nodejs,selenium,mongodb,playwright,js,firebase,grafana,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql&titles=true)
-    -->
 
-  <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim](https://go-skill-icons.vercel.app/api/icons?i=dotnet,visualstudio,vscode,windows,css,wordpress,docker,jira,githubactions,androidstudio,nodejs,selenium,mongodb,playwright,js,firebase,grafana,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql&titles=true" />
-  </a>
-</p>
-   <!--
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,visualstudio,vscode,windows,css,wordpress,docker,jira,githubactions,androidstudio,nodejs,selenium,mongodb,playwright,js,firebase,grafana,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql&titles=true)
+   
   <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
