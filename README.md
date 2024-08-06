@@ -12,7 +12,9 @@ My journey into the tech world began with a fascination for how things work and 
  <li>🖥 Specialization: Manual Testing, Automation Testing, API Testing, Performance Testing, UI Testing, Mobile Testing</li>
  <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
 </ul>
-### 🛠️ Tools and Technologies
+
+### 🛠️ Tools and Technologies:
+
 <p></p>
 
    <!--
