@@ -13,8 +13,6 @@ My journey into the tech world began with a fascination for how things work and 
  <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
 </ul>
   
-### 🛠️ Tools and Technologies
-<p></p>
    <!--
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
@@ -32,6 +30,7 @@ My journey into the tech world began with a fascination for how things work and 
     -->
 
 <div align="center">
+  ### 🛠️ Tools and Technologies
   <p></p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,visualstudio,vscode,windows,css,wordpress,docker,jira,githubactions,androidstudio,nodejs,mongodb,selenium,playwright,js,firebase,grafana,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql&titles=true" alt="My Skills">
   <p></p>
