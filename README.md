@@ -51,9 +51,12 @@ My journey into the tech world began with a fascination for how things work and 
 
  ### 🏆 GitHub Trophies
  
-<a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
+<div align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
     <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
   </a>
+</div>
+
 <p></p>
 <p></p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
