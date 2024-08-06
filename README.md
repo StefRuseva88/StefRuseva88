@@ -13,10 +13,8 @@ My journey into the tech world began with a fascination for how things work and 
  <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
 </ul>
 
-### 🛠️ Tools and Technologies:
-
+### 🛠️ Tools and Technologies
 <p></p>
-
    <!--
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
@@ -33,11 +31,7 @@ My journey into the tech world began with a fascination for how things work and 
   </p>
     -->
 
- <div align="center">
-  <p></p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,visualstudio,vscode,windows,css,wordpress,docker,jira,githubactions,androidstudio,nodejs,mongodb,selenium,playwright,js,firebase,grafana,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql&titles=true" alt="My Skills">
-  <p></p>
-</div>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,visualstudio,vscode,windows,css,wordpress,docker,jira,githubactions,androidstudio,nodejs,mongodb,selenium,playwright,js,firebase,grafana,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql&titles=true)
    
    <!--
   <p>
@@ -57,56 +51,40 @@ My journey into the tech world began with a fascination for how things work and 
 
  ### 🏆 GitHub Trophies
  
-<div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
+<a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
     <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
   </a>
-</div>
-
 <p></p>
-
- <div align="center">
+<p></p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
-  </a>
-</div>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
+</a>
   <p></p>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
-</div>
-
-  <p></p>
-
-<div align="center">
+  </p>
+ 
+  
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&layout=compact&theme=synthwave" alt="Stefaniya's Top Languages">
   </a>
-</div>
+</p>
 
-  <p></p>
-
-<div align="center">
-  <a href="https://GitHub.com/Naereen/">
+<a href="https://GitHub.com/Naereen/">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
-  </a>
-</div>
+ </a>
 
 ### 📩 Let's connect:
-<div align="center">
-  <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/23599979/stef-ruseva">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
-  </a>
-  <a href="https://www.instagram.com/stefanie_grimaldy">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="mailto:stefruseva88@gmail.com">
+<p>  
+  <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+ <a href="https://www.instagram.com/stefanie_grimaldy""><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:stefruseva88@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-</div>
+</a>
+</p>
+
+
