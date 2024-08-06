@@ -81,6 +81,8 @@ My journey into the tech world began with a fascination for how things work and 
   </a>
 </div>
 
+  <p></p>
+
 <div align="center">
   <a href="https://GitHub.com/Naereen/">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
@@ -88,11 +90,17 @@ My journey into the tech world began with a fascination for how things work and 
 </div>
 
 ### 📩 Let's connect:
-<p>  
-  <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
- <a href="https://www.instagram.com/stefanie_grimaldy""><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="mailto:stefruseva88@gmail.com">
+<div align="center">
+  <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/23599979/stef-ruseva">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.instagram.com/stefanie_grimaldy">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:stefruseva88@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-</a>
-</p>
+  </a>
+</div>
