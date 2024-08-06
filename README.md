@@ -81,9 +81,11 @@ My journey into the tech world began with a fascination for how things work and 
   </a>
 </div>
 
-<a href="https://GitHub.com/Naereen/">
+<div align="center">
+  <a href="https://GitHub.com/Naereen/">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
- </a>
+  </a>
+</div>
 
 ### 📩 Let's connect:
 <p>  
