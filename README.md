@@ -2,12 +2,12 @@
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
-<p>Hello! I'm Stefaniya Ruseva, a passionate and detail-oriented manual and automation tester.
-My journey into the tech world began with a fascination for how things work and a desire to make them work even better. Since then, I have not stopped upgrading my skills and learning new ones, always driven by the belief that excellence is a journey, not a destination.</p> 
+<p style="color: smokegray;">Hello! I'm Stefaniya Ruseva, a passionate and detail-oriented manual and automation tester.
+My journey into the tech world began with a fascination for how things work and a desire to make them work even better. Since then, I have not stopped upgrading my skills and learning new ones, always driven by the belief that excellence is a journey, not a destination.</p>
 
-<p></p>
+<p style="color: smokegray;"></p>
 
-<ul> 
+<ul style="color: smokegray;">
  <li>🔍 Experience: My expertise extends over a range of various testing methodologies, tools, and frameworks</li>
  <li>🖥 Specialization: Manual Testing, Automation Testing, API Testing, Performance Testing, UI Testing, Mobile Testing</li>
  <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
