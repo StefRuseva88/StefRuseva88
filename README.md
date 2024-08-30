@@ -2,7 +2,7 @@
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
-<p style="color: #4682B4;">Hello! I'm Stefaniya Ruseva, a passionate and detail-oriented manual and automation tester.
+<p style="color: #4682B4;">Hello! I'm Stef Ruseva, a passionate and detail-oriented manual and automation tester.
 My journey into the tech world began with a fascination for how things work and a desire to make them work even better.</p>
 
 <p style="color: #4682B4;"></p>
