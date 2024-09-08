@@ -9,8 +9,8 @@ My journey into the tech world began with a fascination for how things work and 
 
 <ul style="color: #4682B4;">
  <li>🔍<strong>Experience:</strong> My expertise extends over a range of various testing methodologies, tools, and frameworks</li>
- <li>🖥 Specialization: Manual Testing, Automation Testing, API Testing, Performance Testing, UI Testing, Mobile Testing</li>
- <li>🚀 Interests: Test Automation, Gaming, Artificial Intelligence in Testing</li>
+ <li>🖥 <strong>Specialization:</strong> Manual Testing, Automation Testing, API Testing, Performance Testing, UI Testing, Mobile Testing</li>
+ <li>🚀 <strong>Interests:</strong> Test Automation, Gaming, Artificial Intelligence in Testing</li>
 </ul>
 
 ### 🛠️ Tools and Technologies
