@@ -60,12 +60,13 @@ My journey into the tech world began with a fascination for how things work and 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
 </a>
+ -->
   <p></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
   </p>
- -->
+
   
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
