@@ -88,4 +88,5 @@ My journey into the tech world began with a fascination for how things work and 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StefRuseva88&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--
 ![GitHub Snake Game](https://github.com/StefRuseva88/StefRuseva88/blob/output/snake.svg)
