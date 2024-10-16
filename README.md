@@ -86,5 +86,5 @@ My journey into the tech world began with a fascination for how things work and 
 </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?StefRuseva88=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StefRuseva88&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
