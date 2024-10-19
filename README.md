@@ -94,4 +94,4 @@ My journey into the tech world began with a fascination for how things work and 
  ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
  -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=191970&amp;height=100&amp;section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=8A2BE2&amp;height=100&amp;section=footer">
