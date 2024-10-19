@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 ![Header](./github-header-cosmocat.png)
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
@@ -90,3 +91,6 @@ My journey into the tech world began with a fascination for how things work and 
 
 <!--
 ![GitHub Snake Game](https://github.com/StefRuseva88/StefRuseva88/blob/output/snake.svg)
+ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=footer">
