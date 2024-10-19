@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
-![Header](./github-header-cosmocat.png)
+![Header](./github-header-cosmocat1.png)
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
