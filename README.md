@@ -90,7 +90,6 @@ My journey into the tech world began with a fascination for how things work and 
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StefRuseva88&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
