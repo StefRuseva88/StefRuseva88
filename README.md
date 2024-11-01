@@ -78,11 +78,11 @@ My journey into the tech world began with a fascination for how things work and 
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
  </a>
 
+<!--
 <p>
-
  ![Leave a Star](https://img.shields.io/badge/Leave%20a%20Star-%E2%AD%90-orange)
- 
 </p>
+-->
 
 ### 📩 Let's connect:
 <p>  
