@@ -59,6 +59,7 @@ My journey into the tech world began with a fascination for how things work and 
 <p></p>
 <p></p>
 
+<div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
 </a>
@@ -78,6 +79,7 @@ My journey into the tech world began with a fascination for how things work and 
 <a href="https://GitHub.com/Naereen/">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
  </a>
+</div>
 
 <!--
 <p>
