@@ -67,7 +67,8 @@ My journey into the tech world began with a fascination for how things work and 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
-
+  
+<p></p>
   <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&layout=compact&theme=synthwave" alt="Stefaniya's Top Languages">
