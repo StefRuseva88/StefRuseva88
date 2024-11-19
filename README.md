@@ -5,7 +5,7 @@
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
-<p>Hello! I'm Stefaniya Ruseva, a dedicated manual and automation test engineer with three years experience, specializing in e-commerce and web services. With a passion for enhancing software quality, I believe excellence is a journey, not a destination. 🚀</p>
+<p>Hello! I'm Stef Ruseva, a dedicated manual and automation test engineer with three years experience, specializing in e-commerce and web services. With a passion for enhancing software quality, I believe excellence is a journey, not a destination. 🚀</p>
 
 <p></p>
 
