@@ -3,7 +3,7 @@
 --->
 ![Header](./github-header-cosmocat.png)
 
-### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
+### Software Quality Enthusiast 🚀 |  Continuous Learner 📖 | Innovation Seeker 🔍 | Curious Mind 🧩
 
 <p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience in the field, specializing in e-commerce and web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination. 🚀</p>
 
