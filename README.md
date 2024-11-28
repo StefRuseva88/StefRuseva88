@@ -102,4 +102,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StefRuseva88&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=90E0EF&amp;height=100&amp;section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=00B4D8&amp;height=100&amp;section=footer">
