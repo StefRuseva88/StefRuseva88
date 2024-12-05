@@ -6,7 +6,6 @@
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
 <p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience in the field, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination. 🚀</p>
-
 <p></p>
 
 <ul>
@@ -60,9 +59,12 @@
 
 <div align="center">
  
+   <!--
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=StefRuseva88&theme=synthwave" alt="Stefaniya's GitHub Streak Stats">
   </a>
+ -->
+ 
 <p></p>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
