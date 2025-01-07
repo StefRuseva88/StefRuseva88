@@ -101,7 +101,9 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 </p>
+
 ---
+
 ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StefRuseva88&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
