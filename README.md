@@ -51,7 +51,7 @@
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p> 
  -->
-
+---
  ### 🏆 GitHub Trophies
  
 <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
