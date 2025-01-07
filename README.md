@@ -14,6 +14,8 @@
  <li>🚀 <strong>Interests:</strong> Test Automation, Web Services, E-Commerce, Artificial Intelligence in Testing</li>
 </ul>
 
+---
+
 ### 🛠️ Tools and Technologies
 <p></p>
    <!--
