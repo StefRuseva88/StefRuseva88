@@ -55,7 +55,7 @@
  ### 🏆 GitHub Trophies
  
 <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
-<img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true&cache-bust=1672508400" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
 </a> 
 <p></p>
 
