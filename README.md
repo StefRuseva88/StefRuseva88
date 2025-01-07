@@ -14,7 +14,7 @@
  <li>🚀 <strong>Interests:</strong> Test Automation, Web Services, E-Commerce, Artificial Intelligence in Testing</li>
 </ul>
 
----
+--
 
 ### 🛠️ Tools and Technologies
 <p></p>
@@ -51,7 +51,7 @@
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </p> 
  -->
----
+ 
  ### 🏆 GitHub Trophies
  
 <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
@@ -101,8 +101,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 </p>
-
----
 
 ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
