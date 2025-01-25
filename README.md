@@ -64,8 +64,8 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&show_icons=true&theme=synthwave" alt="Stefaniya's GitHub Stats">
+<a href="https://github.com/athul/waka-readme">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=synthwave" alt="WakaTime Stats">
 </a>
  
 <p></p>
