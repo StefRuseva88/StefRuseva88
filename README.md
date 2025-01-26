@@ -60,15 +60,14 @@
 <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
 <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
 </a>
+
 <p></p>
 
 <div align="center">
 
- <!--
 <a href="https://github.com/athul/waka-readme">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=StefRuseva&theme=synthwave" alt="WakaTime Stats">
 </a>
- -->
  
 <p></p>
  
