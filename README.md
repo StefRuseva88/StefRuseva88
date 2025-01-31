@@ -90,6 +90,7 @@
  ![Leave a Star](https://img.shields.io/badge/Leave%20a%20Star-%E2%AD%90-orange)
 </p>
 -->
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 ### 📩 Let's connect:
 <p>  
@@ -101,8 +102,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 ![snake gif](https://github.com/StefRuseva88/StefRuseva88/blob/output/github-snake-dark.svg)
 
