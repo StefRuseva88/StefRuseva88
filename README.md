@@ -14,7 +14,7 @@
  <li>🚀 <strong>Interests:</strong> Test Automation, AI in Testing, Web Services, eCommerce, Gaming</li>
 </ul>
 
-<img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 ### 🛠️ Tools and Technologies
 <p></p>
