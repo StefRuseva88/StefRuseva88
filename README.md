@@ -95,9 +95,9 @@
 ### 📩 Let's connect:
 <p>  
   <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
   <a href="https://www.instagram.com/stefanie_grimaldy""><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://discord.com/users/stef88_67964"><img src="https://skillicons.dev/icons?i=discord" /></a> 
+  <a href="https://stackoverflow.com/users/23599979/stef-ruseva"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
   <a href="mailto:stefruseva88@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
