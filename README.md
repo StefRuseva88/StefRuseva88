@@ -36,8 +36,8 @@
   </p>
     -->
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode, windows,wordpress,docker,deepseek,githubactions,jira,androidstudio,nodejs,mongodb,selenium,js,grafana,firebase,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql,cypress,playwright&titles=true)
-   
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,windows,wordpress,docker,deepseek,githubactions,jira,androidstudio,nodejs,mongodb,selenium,js,grafana,firebase,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql,cypress,playwright&titles=true)
+
    <!--
   <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
