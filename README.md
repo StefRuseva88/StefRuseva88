@@ -1,19 +1,35 @@
 ![Header](./github-header-cosmocat.png)
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+<!-- CSS for fade-in effect -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
 
-### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
+#intro {
+  animation: fadeIn 2s ease-in-out;
+  opacity: 1;
+}
+</style>
 
-<p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination. </p>
-<p></p>
+<!-- Introduction section wrapped in a div -->
+<div id="intro">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-<ul>
- <li>🔍 <strong>Experience:</strong> My expertise extends over a range of various testing methodologies, tools, and frameworks</li>
- <li>🖥 <strong>Specialization:</strong> Manual Testing, Automation Testing, API Testing, Performance Testing, UI Testing, Mobile Testing</li>
- <li>🚀 <strong>Interests:</strong> Test Automation, AI in Testing, Web Services, eCommerce, Gaming</li>
-</ul>
+  ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+  <p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination.</p>
+
+  <ul>
+    <li>🔍 <strong>Experience:</strong> My expertise extends over a range of various testing methodologies, tools, and frameworks</li>
+    <li>🖥 <strong>Specialization:</strong> Manual Testing, Automation Testing, API Testing, Performance Testing, UI Testing, Mobile Testing</li>
+    <li>🚀 <strong>Interests:</strong> Test Automation, AI in Testing, Web Services, eCommerce, Gaming</li>
+  </ul>
+
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</div>
+
 
 ### 🛠️ Tools and Technologies
 <p></p>
