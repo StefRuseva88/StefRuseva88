@@ -2,11 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-<!-- Fade-In Section: Introduction -->
-<div style="animation: fadeIn 2s ease-in;">
-### Software quality enthusiast 🚀 | Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
-<p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination.</p>
-</div>
+### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
+
+<div>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination. </div>
+<p></p>
 
 <ul>
  <li>🔍 <strong>Experience:</strong> My expertise extends over a range of various testing methodologies, tools, and frameworks</li>
