@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
+![GitIntro](https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/main/GitIntro.gif)
+
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
 <p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination. </p>
