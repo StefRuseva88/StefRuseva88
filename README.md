@@ -4,8 +4,8 @@
 
 <!-- Fade-In Section: Introduction -->
 <div style="animation: fadeIn 2s ease-in;">
-    ### Software quality enthusiast 🚀 | Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
-    <p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination.</p>
+### Software quality enthusiast 🚀 | Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
+<p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination.</p>
 </div>
 
 <ul>
