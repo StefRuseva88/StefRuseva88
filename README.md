@@ -1,24 +1,12 @@
-<!--
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
-<style>
-    @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-    }
-    .fade-in {
-        animation: fadeIn 2s ease-in;
-    }
-</style>
---->
-
 ![Header](./github-header-cosmocat.png)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
-
-<p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination. </p>
-<p></p>
+<!-- Fade-In Section: Introduction -->
+<div style="animation: fadeIn 2s ease-in;">
+    ### Software quality enthusiast 🚀 | Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
+    <p>Hello! I'm Stef Ruseva, a passionate manual and automation test engineer with three years of experience, specializing in web services. I focus on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination.</p>
+</div>
 
 <ul>
  <li>🔍 <strong>Experience:</strong> My expertise extends over a range of various testing methodologies, tools, and frameworks</li>
