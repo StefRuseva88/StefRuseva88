@@ -1,16 +1,3 @@
-<!--
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
-<style>
-    @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-    }
-    .fade-in {
-        animation: fadeIn 2s ease-in;
-    }
-</style>
---->
-
 ![Header](./github-header-cosmocat.png)
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
