@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-<img src="https://StefRuseva88.com/Gitintro.gif" alt="Software quality enthusiast | Continuous learner | Innovation seeker | Curious mind" width="100%"/>
+<img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/main/GitIntro.gif" alt="Software quality enthusiast | Continuous learner | Innovation seeker | Curious mind" width="100%"/>
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
