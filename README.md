@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/main/Gitintro.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/Gitintro.gif" width="100%"/>
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
