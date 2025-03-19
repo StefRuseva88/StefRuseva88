@@ -61,7 +61,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=StefRuseva88&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=StefRuseva88)](https://git.io/streak-stats)
+
 <p></p>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
