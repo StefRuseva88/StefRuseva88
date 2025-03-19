@@ -61,12 +61,7 @@
 
 <div align="center">
 
- <!--
-<a href="https://github.com/athul/waka-readme">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=StefRuseva&theme=synthwave" alt="WakaTime Stats">
-</a>
--->
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=StefRuseva88&theme=synthwave)](https://git.io/streak-stats)
 <p></p>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
