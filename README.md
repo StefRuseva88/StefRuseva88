@@ -10,7 +10,7 @@
 <ul>
  <li>🔍 <strong>Experience:</strong> My expertise extends over a range of various testing methodologies, tools, and frameworks</li>
  <li>🖥 <strong>Specialization:</strong> Manual Testing, Automation Testing, API Testing, Performance Testing, UI Testing, Mobile Testing</li>
- <li>🚀 <strong>Interests:</strong> Test Automation, AI in Testing, Web Services, eCommerce, Gaming</li>
+ <li>🚀 <strong>Interests:</strong> Test Automation, AI in Testing, Web Services, eCommerce, Gaming, Digital Art</li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
