@@ -33,7 +33,7 @@
   </p>
     -->
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,apache,windows,wordpress,docker,githubactions,jira,androidstudio,nodejs,mongodb,selenium,js,grafana,firebase,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql,cypress,playwright&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,windows,wordpress,docker,deepseek,githubactions,jira,androidstudio,nodejs,mongodb,selenium,js,grafana,firebase,postman,prometheus,html,git,jenkins,sqlserver,github,bash,chatgpt,mysql,cypress,playwright&titles=true)
 
    <!--
   <p>
