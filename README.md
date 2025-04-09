@@ -52,11 +52,12 @@
  -->
  
  ### 🏆 GitHub Trophies
+   <!--
 <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
 <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
 </a>
 <p></p>
-
+-->
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Stefruseva88&theme=synthwave)](https://git.io/streak-stats)
