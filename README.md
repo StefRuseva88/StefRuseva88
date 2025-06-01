@@ -17,46 +17,14 @@
 
 ### 🛠️ Tools and Technologies
 <p></p>
-   <!--
-<p>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" /></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://wordpress.com/"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-  </p>
-    -->
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,jira,docker,kubernetes,androidstudio,nodejs,cypress,selenium,mongodb,js,grafana,firebase,apache,postman,prometheus,html,git,jenkins,sqlserver,github,bash,mysql,playwright,kibana&titщles=true)
-
-   <!--
-  <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
-  <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
-  <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.geeksforgeeks.org/working-on-git-bash"><img src="https://skillicons.dev/icons?i=bash" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-</p> 
- -->
  
  ### 📊 GitHub Stats
- <!--
+ 
 <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
 <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
 </a>
- -->
 
 <p></p>
 <div align="center">
