@@ -6,14 +6,16 @@
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
-<p>Hello! I'm a passionate manual and automation test engineer, committed to improving software quality and user experiences, always driven by the belief that excellence is a journey, not a destination.
+<p>Hello! I'm a passionate manual and automation test engineer,committed to improving software quality and user experiences, always driven by the belief that excellence is a journey, not a destination.
 </p>
 <p></p>
 
 <ul>
- <li>🔍 <strong>Experience:</strong> My expertise extends over a range of various testing methodologies, tools, and frameworks</li>
- <li>🖥 <strong>Specialization:</strong> Manual Testing, Automation Testing, API Testing, Performance Testing, UI Testing, Mobile Testing</li>
- <li>🚀 <strong>Interests:</strong> Automation, AI Testing, Web Testing, eCommerce, Gaming, Digital Art</li>
+ <li>🔍 <strong>Experience:</strong> Skilled in diverse testing methodologies, tools, and frameworks</li>
+ <li>🖥 <strong>Specialization:
+</strong> Manual, Automation, API, Performance, UI & Mobile Testing
+</li>
+ <li>🚀 <strong>Interests:</strong> Automation, AI & Web Testing, eCommerce, Gaming, Digital Art</li>
 </ul>
 
 <!--
