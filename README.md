@@ -24,7 +24,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,jira,docker,kubernetes,androidstudio,nodejs,cypress,selenium,mongodb,js,grafana,firebase,apache,postman,prometheus,html,git,jenkins,sqlserver,github,bash,mysql,playwright,kibana&titщles=true)
  
- ### 📊 GitHub Stats
+### 🏆 GitHub Trophies
  
 <a href="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true">
 <img src="https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark&margin-w=0&row=1&no-frame=true" alt="GitHub Trophies">
@@ -68,6 +68,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 </p>
+
+### 📊 GitHub Stats
 
 <!--
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=StefRuseva88.StefRuseva88)
