@@ -1,6 +1,8 @@
 ![Header](./github-header-cosmocat.png)
 
+<!--
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+-->
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
@@ -13,12 +15,14 @@
  <li>🚀 <strong>Interests:</strong> Automation, AI Testing, Web Testing, eCommerce, Gaming, Digital Art</li>
 </ul>
 
+<!--
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+-->
 
 ### 🛠️ Tools and Technologies
 <p></p>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,jira,docker,kubernetes,androidstudio,nodejs,cypress,selenium,mongodb,js,grafana,firebase,apache,postman,prometheus,html,git,jenkins,sqlserver,github,bash,mysql,playwright,kibana,appium&titщles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,jira,docker,kubernetes,androidstudio,nodejs,cypress,selenium,mongodb,js,grafana,firebase,apache,postman,prometheus,html,git,jenkins,sqlserver,github,bash,mysql,playwright,kibana&titщles=true)
  
  ### 📊 GitHub Stats
  
