@@ -6,7 +6,7 @@
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
-<p>Hello! I'm a passionate manual and automation test engineer,committed to improving software quality and user experiences, always driven by the belief that excellence is a journey, not a destination.
+<p>Hello! I'm a passionate manual and automation test engineer, committed to improving software quality and user experiences, always driven by the belief that excellence is a journey, not a destination.
 </p>
 <p></p>
 
