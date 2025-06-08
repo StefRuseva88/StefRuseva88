@@ -6,7 +6,7 @@
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
-<p>_Hello! I'm Stef Ruseva_, a passionate manual and automation test engineer, focused on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination.
+<p>***Hello! I'm Stef Ruseva***, a passionate manual and automation test engineer, focused on enhancing software quality and delivering seamless user experiences, always driven by the belief that excellence is a journey, not a destination.
 </p>
 <p></p>
 
