@@ -71,9 +71,7 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=StefRuseva88.StefRuseva88)
 
-<p>
- ![Leave a Star](https://img.shields.io/badge/Leave%20a%20Star-%E2%AD%90-orange)
-</p>
+![Leave a Star](https://img.shields.io/badge/Leave%20a%20Star-%E2%AD%90-orange)
 
 ![snake gif](https://github.com/StefRuseva88/StefRuseva88/blob/output/github-snake-dark.svg)
 
