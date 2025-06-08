@@ -71,9 +71,7 @@
 
 ### 📊 GitHub Stats
 
-<!--
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=StefRuseva88.StefRuseva88)
--->
 
 ![snake gif](https://github.com/StefRuseva88/StefRuseva88/blob/output/github-snake-dark.svg)
 
