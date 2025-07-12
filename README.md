@@ -6,7 +6,7 @@
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
-<h1>Hello! I'm Stef, a passionate manual and automation test engineer, committed to improving software quality and user experiences, always driven by the belief that excellence is a journey, not a destination.🚀</h1>
+<h2>Hello! I'm Stef, a passionate manual and automation test engineer, committed to improving software quality and user experiences, always driven by the belief that excellence is a journey, not a destination.</h2>
 <p></p>
 
 <!--
