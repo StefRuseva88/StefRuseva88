@@ -1,4 +1,4 @@
-![Header](./github-header-cosmocat.png)
+се![Header](./github-header-cosmocat.png)
 
 <!--
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
@@ -32,6 +32,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
+
 <p></p>
   <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
