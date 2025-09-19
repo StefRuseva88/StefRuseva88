@@ -28,11 +28,9 @@
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Stefruseva88&theme=synthwave)](https://git.io/streak-stats)
 
 <p></p>
- <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
--->
 <p></p>
   <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
