@@ -1,6 +1,17 @@
 <div style="font-family: 'Poppins', sans-serif;">
 
 <img src="./github-header-cosmocat.png" alt="Header">
+<div style="font-family: Poppins, sans-serif; font-size: 22px;">
+
+<h2>Test Section — Font Should Change</h2>
+
+<p>
+This is a test paragraph to see if the Poppins font works inside a div.
+If this text looks different from your default GitHub font, then we can continue.
+</p>
+
+</div>
+
 
 <h3>Software quality enthusiast 🚀 | Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩</h3>
 
