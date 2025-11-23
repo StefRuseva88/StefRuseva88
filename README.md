@@ -3,7 +3,7 @@
 <!--
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 -->
-
+<div style="font-family: 'Poppins', sans-serif;">
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
 
 <h3>Hello! I'm Stef, a passionate manual and automation test engineer, committed to improving software quality and user experiences, always driven by the belief that excellence is a journey, not a destination!</h3>
@@ -64,3 +64,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StefRuseva88&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=264653&amp;height=100&amp;section=footer">
+</div>
