@@ -18,7 +18,7 @@
 ### 🏆 GitHub Stats
 <div align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
