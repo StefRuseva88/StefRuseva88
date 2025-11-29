@@ -25,7 +25,7 @@
 <p></p>
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Stefruseva88&theme=ambient-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Stefruseva88&theme=neon)](https://git.io/streak-stats)
 
 <p></p>
 <!--
