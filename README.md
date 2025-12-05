@@ -28,6 +28,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Stefruseva88&theme=synthwave)](https://git.io/streak-stats)
 
 <p></p>
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
@@ -41,7 +42,7 @@
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
  </a>
 </div>
-
+-->
 ### 📩 Let's connect:
 <p>  
   <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
