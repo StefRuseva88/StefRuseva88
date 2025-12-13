@@ -20,16 +20,14 @@
  
 ### 🏆 GitHub Stats
 <div align="center">
- 
+ <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 </div>
 
 <p></p>
 <div align="center">
-<!--
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Stefruseva88&theme=synthwave)](https://git.io/streak-stats)
--->
 <p></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
