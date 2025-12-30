@@ -38,6 +38,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&layout=compact&theme=synthwave" alt="Stefaniya's Top Languages">
   </a>
+  <p></p>
 <a href="https://GitHub.com/Naereen/">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
  </a>
