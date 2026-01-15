@@ -31,7 +31,6 @@
  
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Stefruseva88&theme=synthwave)](https://git.io/streak-stats)
 <p></p>
- <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
@@ -39,7 +38,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&layout=compact&theme=synthwave" alt="Stefaniya's Top Languages">
   </a>
-  -->
 <p></p>
 <a href="https://GitHub.com/Naereen/">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
@@ -57,9 +55,9 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
 </p>
-
+ <!--
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=StefRuseva88.StefRuseva88)
-
+-->
 ![Leave a Star](https://img.shields.io/badge/Leave%20a%20Star-%E2%AD%90-orange)
 
 ![snake gif](https://github.com/StefRuseva88/StefRuseva88/blob/output/github-snake-dark.svg)
