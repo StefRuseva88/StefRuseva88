@@ -20,9 +20,8 @@
  
 ### 🏆 GitHub Stats
 <div align="center">
-  <!--
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=StefRuseva88&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  -->
 
 </div>
 
@@ -36,10 +35,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=StefRuseva88&theme=synthwave" alt="Naereen's github stats">
   </a>
 <p></p>
+
+<!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefRuseva88&layout=compact&theme=synthwave" alt="Stefaniya's Top Languages">
   </a>
 <p></p>
+-->
+
 <a href="https://GitHub.com/Naereen/">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
  </a>
