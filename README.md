@@ -47,6 +47,7 @@
  </a>
 </div>
 
+<p></p>
 <p>  
   <a href="https://www.linkedin.com/in/stefaniya-ruseva-920066266"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/stefanie_grimaldy""><img src="https://skillicons.dev/icons?i=instagram" /></a>
