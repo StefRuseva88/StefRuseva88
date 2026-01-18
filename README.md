@@ -40,7 +40,7 @@
   </a>
 <p></p>
 -->
-
+<div align="center">
 <a href="https://GitHub.com/Naereen/">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
  </a>
