@@ -5,9 +5,10 @@
 -->
 
 ### Software quality enthusiast 🚀 |  Continuous learner 📖 | Innovation seeker 🔍 | Curious mind 🧩
-
+---
 <h3>Hello! I'm Stef, a passionate manual and automation test engineer, committed to improving software quality and user experiences, always driven by the belief that excellence is a journey, not a destination!</h3>
 <p></p>
+---
 
 <!--
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
