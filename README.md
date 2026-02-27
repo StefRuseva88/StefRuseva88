@@ -66,7 +66,6 @@
 ![snake gif](https://github.com/StefRuseva88/StefRuseva88/blob/output/github-snake-dark.svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StefRuseva88&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,14,30&height=150&section=footer&animation=fadeIn)
-<!--
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,17,23&height=150&section=footer&animation=fadeIn)<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=264653&amp;height=100&amp;section=footer">
 -->
