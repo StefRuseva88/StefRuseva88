@@ -16,7 +16,7 @@
 ### 🛠️ Tools and Technologies
 <p></p>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,jira,docker,kubernetes,androidstudio,cypress,nodejs,selenium,mongodb,js,grafana,firebase,apache,postman,prometheus,html,git,jenkins,figma,github,bash,sqlserver,playwright,kibana&titщles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,jira,docker,kubernetes,androidstudio,cypress,nodejs,selenium,mongodb,js,grafana,firebase,apache,postman,prometheus,html,git,jenkins,sqlserver,github,bash,figma,playwright,kibana&titщles=true)
  
 ### 🏆 GitHub Stats
 <div align="center">
