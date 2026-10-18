@@ -71,7 +71,7 @@
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StefRuseva88&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,17,23&height=150&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,16:FF7F00,33:FFFF00,50:00FF00,66:0000FF,83:4B0082,100:9400D3&height=150&section=footer&animation=fadeIn)
 <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=264653&amp;height=100&amp;section=footer">
 -->
