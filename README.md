@@ -24,7 +24,7 @@
 ### 🛠️ Tools and Technologies
 <p></p>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,ts,docker,kubernetes,androidstudio,mongodb,nodejs,cypress,selenium,js,postman,html,git,grafana,firebase,prometheus,claude,jenkins,mysql,github,bash,elasticsearch,figma,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,ts,docker,kubernetes,androidstudio,mongodb,nodejs,cypress,selenium,js,postman,html,git,prometheus,grafana,firebase,claude,jenkins,mysql,github,bash,elasticsearch,figma,nginx)](https://skillicons.dev)
 
  
 ### 🏆 GitHub Stats
