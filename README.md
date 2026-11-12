@@ -24,7 +24,7 @@
 ### 🛠️ Tools and Technologies
 <p></p>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,jira,docker,kubernetes,androidstudio,mongodb,nodejs,cypress,selenium,js,postman,html,git,grafana,firebase,apache,claude,jenkins,sqlserver,github,bash,kibana,figma,playwright)](https://skillicons.dev)
 
  
 ### 🏆 GitHub Stats
