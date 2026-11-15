@@ -17,10 +17,10 @@
 <p></p>
 <p></p>
 
-![Currently Online](https://img.shields.io/badge/currently-online-brightgreen?style=flat&labelColor=555555)
-![Playing Nothing](https://img.shields.io/badge/playing-nothing%20rn-5865F2?style=flat&labelColor=555555)
-![Coding Nothing](https://img.shields.io/badge/coding-nothing%20rn-2196F3?style=flat&labelColor=555555)
-![Listening To Nothing](https://img.shields.io/badge/listening%20to-nothing%20rn-1DB954?style=flat&labelColor=555555)
+![Currently](https://img.shields.io/badge/currently-breaking%20things%20(for%20science)-F4D03F?style=flat&labelColor=555555)
+![Playing](https://img.shields.io/badge/playing-with%20edge%20cases-8A63D2?style=flat&labelColor=555555)
+![Coding](https://img.shields.io/badge/coding-Playwright%20%2B%20TypeScript-2196F3?style=flat&labelColor=555555)
+![Listening](https://img.shields.io/badge/listening%20to-lo--fi%20beats-1DB954?style=flat&labelColor=555555)
 
 <!--
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
