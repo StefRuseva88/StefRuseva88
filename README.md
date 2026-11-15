@@ -17,11 +17,6 @@
 <p></p>
 <p></p>
 
-![Currently](https://img.shields.io/badge/currently-breaking%20things%20(for%20science)-F4D03F?style=flat&labelColor=555555)
-![Playing](https://img.shields.io/badge/playing-with%20edge%20cases-8A63D2?style=flat&labelColor=555555)
-![Coding](https://img.shields.io/badge/coding-Playwright%20%2B%20TypeScript-2196F3?style=flat&labelColor=555555)
-![Listening](https://img.shields.io/badge/listening%20to-lo--fi%20beats-1DB954?style=flat&labelColor=555555)
-
 <!--
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 -->
@@ -30,6 +25,11 @@
 <p></p>
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,ts,docker,kubernetes,androidstudio,mongodb,nodejs,cypress,selenium,js,postman,html,git,prometheus,grafana,firebase,jenkins,mysql,github,bash,elasticsearch,figma,supabase,nginx)](https://skillicons.dev)
+
+![Currently](https://img.shields.io/badge/currently-breaking%20things%20(for%20science)-F4D03F?style=flat&labelColor=555555)
+![Playing](https://img.shields.io/badge/playing-with%20edge%20cases-8A63D2?style=flat&labelColor=555555)
+![Coding](https://img.shields.io/badge/coding-Playwright%20%2B%20TypeScript-2196F3?style=flat&labelColor=555555)
+![Listening](https://img.shields.io/badge/listening%20to-lo--fi%20beats-1DB954?style=flat&labelColor=555555)
 
  
 ### 🏆 GitHub Stats
