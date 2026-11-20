@@ -24,7 +24,7 @@
 ### 🛠️ Tools and Technologies
 <p></p>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,vscode,css,ts,docker,kubernetes,windows,bitbucket,androidstudio,mongodb,nodejs,cypress,selenium,js,postman,prometheus,git,html,grafana,firebase,jenkins,mysql,github,bash,elasticsearch,figma,supabase,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,vscode,css,ts,docker,kubernetes,windows,bitbucket,androidstudio,mongodb,nodejs,cypress,selenium,js,postman,prometheus,git,html,grafana,firebase,jenkins,mysql,github,bash,elasticsearch,figma,supabase,chromium)](https://skillicons.dev)
 
 ![Currently](https://img.shields.io/badge/currently-breaking%20things%20(for%20science)-F4D03F?style=flat&labelColor=555555)
 ![Playing](https://img.shields.io/badge/playing-with%20edge%20cases-8A63D2?style=flat&labelColor=555555)
