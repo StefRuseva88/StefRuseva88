@@ -30,7 +30,7 @@
 ![Playing](https://img.shields.io/badge/playing-with%20edge%20cases-8A63D2?style=flat&labelColor=555555)
 ![Coding](https://img.shields.io/badge/coding-Playwright%20%2B%20TypeScript-2196F3?style=flat&labelColor=555555)
 ![Listening](https://img.shields.io/badge/listening%20to-lo--fi%20beats-1DB954?style=flat&labelColor=555555)
-
+![Mood](https://img.shields.io/badge/mood-testing%20chaos-E53935?style=flat&labelColor=555555)
  
 ### 🏆 GitHub Stats
 <div align="center">
