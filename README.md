@@ -32,12 +32,6 @@
 ![Listening](https://img.shields.io/badge/listening%20to-lo--fi%20beats-1DB954?style=flat&labelColor=555555)
 ![Mood](https://img.shields.io/badge/mood-testing%20chaos-E53935?style=flat&labelColor=555555)
 
- ![Currently](https://img.shields.io/badge/currently-breaking%20things-F7DF1E?style=flat&labelColor=555555)
-![Playing](https://img.shields.io/badge/playing-with%20edge%20cases-A259FF?style=flat&labelColor=555555)
-![Coding](https://img.shields.io/badge/coding-Playwright%20%2B%20TS-3178C6?style=flat&labelColor=555555)
-![Listening](https://img.shields.io/badge/listening-lo--fi%20beats-42B883?style=flat&labelColor=555555)
-![Mood](https://img.shields.io/badge/mood-testing%20chaos-E34F26?style=flat&labelColor=555555)
-
 ### 🏆 GitHub Stats
 <div align="center">
  
